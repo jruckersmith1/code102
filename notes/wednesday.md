@@ -1,1 +1,3 @@
 Happy Hump Day! Now it's time to see if I can properly do the git cycle. May God have mercy on my soul...
+
+So it worked! I'm doing more so I can do the git cycle again. Then I'll push it!
